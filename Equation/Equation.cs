@@ -17,8 +17,9 @@ namespace EquationLib
             double root1 = 0;
             double root2 = 0;
             double identifier = 0;
-
+      
             identifier = b * b - (4 * a * c);
+
 
             if (identifier > 0)
             {
