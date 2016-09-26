@@ -20,7 +20,6 @@ namespace EquationLib
       
             identifier = b * b - (4 * a * c);
 
-
             if (identifier > 0)
             {
                 root1 = (-b + (Math.Sqrt(identifier) / (2 * a)));
